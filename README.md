@@ -6,7 +6,7 @@ If anyone wants to contribute, go ahead!
 
 Format to be followed:
 
-1)Make a folder, with the name "<clubname>space<workshop name>space<start date in DD-MM-YY>"
+1)Make a folder, with the name "club-name SPACE workshop-name SPACE start-date-in-DD-MM-YY"
 
 2)The folder will have 3 items: 
 a) publicity image of the workshop (poster.png)
