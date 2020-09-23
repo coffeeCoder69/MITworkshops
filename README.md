@@ -10,6 +10,6 @@ Format to be followed:
 
 2)The folder will have 3 items: 
 a) publicity image of the workshop  
-b) text file containing the publicity text 
-c) text file containing links to recordings of the workshop
+b) text file containing the publicity text (description.txt)
+c) text file containing links to recordings of the workshop (recordings.txt)
 

@@ -1,0 +1,18 @@
+IE-Mechatronics Student Chapter invites you to an amazing 4 Day workshop on Application Development using a very interactive software Flutter. The workshop will be held on MS Teams.
+You’ll learn to build an application from scratch with a Login and Registration Page with a Google Firebase backend, also you’ll be taught how to add the Google and Facebook Sign-in Support.
+
+The schedule will be as follows:
+
+Day 1 (13.07.2020): Setting up and basics of Dart and Flutter.
+Day 2 (14.07.2020): Building the frontend UI for both screens.
+Day 3 (15.07.2020): Google Firebase Backend support.
+Day 4 (16.07.2020): Google and Facebook Sign-in support.
+
+This workshop will be held from 4.00pm to 5.00pm for the 4 days and will include a Q&A session after every day for the solving of doubts. 
+
+You get a CERTIFICATE on successful completion of the workshop.
+
+Interested people can fill up their details in the link given below:
+https://forms.gle/jfov1hSGpb8TK6xi7
+
+Contact:- Soundar (9176870357)
