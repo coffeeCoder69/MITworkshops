@@ -2,7 +2,7 @@
 
 * [Deploying Web Apps on the Cloud using Azure](Support_Files/Deploying Web Apps on the Cloud using Azure.md)
 
-* [What the SHELL (GIT and BASH workshop)](https://learnermanipal-my.sharepoint.com/:f:/g/personal/baidyanath_kundu1_learner_manipal_edu/Eottvnzw_LdKsF-Hx-nAvnABrhSK7EonXgZXNcyzALiO0Q?e=Sy3lz4)
+* [What the SHELL (GIT and BASH workshop)](Support_Files/What the SHELL (GIT and BASH workshop).md)
 
 * [Arduino using TINKERCAD workshop](https://drive.google.com/drive/folders/1ekKaltTkPWIG-QXxXs2-hktn2Fwr0kXK)
 
