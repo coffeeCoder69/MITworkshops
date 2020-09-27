@@ -22,7 +22,7 @@
 
 * [Getting-started-with-Machine-Learning_(IEEE-SBM)](Support_Files/Getting-started-with-Machine-Learning_(IEEE-SBM).md)
 
-* [Intro-to-DL-and-CNNs-using-PyTorch_(IECSE x VISION)](Support_Files/Intro-to-DL-and-CNNs-using-PyTorch_(IECSE x VISION).md)
+* [Intro-to-DL-and-CNNs-using-PyTorch_(IECSE x VISION)](Support_Files/Intro-to-DL-and-CNNs-using-PyTorch_(IECSExVISION).md)
 
 * [OpenCV-workshop_(RoboManipal)](Support_Files/OpenCV-workshop_(RoboManipal).md)
 
