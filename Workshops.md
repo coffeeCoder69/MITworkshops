@@ -1,24 +1,24 @@
 # List of all recordings
 
-* [Deploying Web Apps on the Cloud using Azure](Support_Files/Deploying Web Apps on the Cloud using Azure.md)
+* [Deploying Web Apps on the Cloud using Azure](Support_Files/Deploying-Web-Apps-on-the-Cloud-using-Azure_(MLSA).md)
 
-* [What the SHELL (GIT and BASH workshop)](Support_Files/What the SHELL (GIT and BASH workshop).md)
+* [What the SHELL (GIT and BASH workshop)](Support_Files/What-the-SHELL-(GIT-and-BASH-workshop)_(LUG).md)
 
-* [Arduino using TINKERCAD workshop](https://drive.google.com/drive/folders/1ekKaltTkPWIG-QXxXs2-hktn2Fwr0kXK)
+* [Arduino using TINKERCAD workshop](Support_Files/Arduino-using-TINKERCAD-workshop_(IE-ENC).md*)
 
-* [IOSD Bootstrap](https://drive.google.com/drive/folders/1hOjKVRCgmzEhkzFBhDiT1d1qZaJduYpG)
+* [IOSD Bootstrap](Support_Files/Bootstrap-workshop_(IOSD).md)
 
-* [CAD with FUSION 360](https://www.youtube.com/watch?v=Ryr0BUaMAis&list=PLcCroMgNE8YSD8qTJzZ6iAUqqy1Uc668P)
+* [CAD with FUSION 360](Support_Files/CAD-with-FUSION-360_(IE-MCT).md)
 
-* [IEMCT Flutter workshop](https://www.youtube.com/watch?v=CKDsx1HKTdY&list=PLcCroMgNE8YSTlkEDyPxW-mxN5cO6erqB)
+* [IEMCT Flutter workshop](Support_Files/Flutter-workshop_(IEMCT).md)
 
-* [RnC Flutter workshop](https://drive.google.com/drive/folders/18Vm9swmm5LDPT1VaeePmZVQr1a-hdBdX?usp=sharing)
+* [RnC Flutter workshop](Support_Files/Flutter-workshop_(RnC).md)
 
-* [Introduction To IOT using Raspberry Pi](https://www.youtube.com/watch?v=UX8i8OtNWCI&list=PLcCroMgNE8YT8yIO7Ox3fR0BM7PguUJQf)
+* [Introduction To IOT using Raspberry Pi](Support_Files/Introduction-to-IOT-using-Raspberry-Pi_(IE-MCT).md)
 
-* [Let's React workshop](https://drive.google.com/drive/folders/1uW3XbmdIQgsqJIJ_UxnT84UEYWhrd3Ff)
+* [Let's React workshop](Support_Files/Let's-React-workshop_(IECSE).md)
 
-* [AR workshop]()
+* [AR workshop](Support_Files/AR-workshop_(VISION).md)
 
 * []()
 
