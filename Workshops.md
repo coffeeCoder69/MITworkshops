@@ -26,5 +26,5 @@
 
 * [OpenCV-workshop_(RoboManipal)](Support_Files/OpenCV-workshop_(RoboManipal).md)
 
-* [Python-Programming_(MAHE SRF)](Support_Files/Python-Programming_(MAHE-SRF).md).md)
+* [Python-Programming_(MAHE SRF)](Support_Files/Python-Programming_(MAHE-SRF).md)
 
