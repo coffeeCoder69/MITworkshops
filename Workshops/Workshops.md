@@ -8,9 +8,9 @@
 
 * [CAD with FUSION 360](https://www.youtube.com/watch?v=Ryr0BUaMAis&list=PLcCroMgNE8YSD8qTJzZ6iAUqqy1Uc668P)
 
-* [IEMCT flutter workshop](https://www.youtube.com/watch?v=CKDsx1HKTdY&list=PLcCroMgNE8YSTlkEDyPxW-mxN5cO6erqB)
+* [IEMCT Flutter workshop](https://www.youtube.com/watch?v=CKDsx1HKTdY&list=PLcCroMgNE8YSTlkEDyPxW-mxN5cO6erqB)
 
-* [RnC flutter workshop](https://drive.google.com/drive/folders/18Vm9swmm5LDPT1VaeePmZVQr1a-hdBdX?usp=sharing)
+* [RnC Flutter workshop](https://drive.google.com/drive/folders/18Vm9swmm5LDPT1VaeePmZVQr1a-hdBdX?usp=sharing)
 
 * [Introduction To IOT using Raspberry Pi](https://www.youtube.com/watch?v=UX8i8OtNWCI&list=PLcCroMgNE8YT8yIO7Ox3fR0BM7PguUJQf)
 
