@@ -1,4 +1,4 @@
-# Python Programming by MAHE SRF:
+# Python Programming (MAHE SRF)
 
 Recording Day1 recording not available
 

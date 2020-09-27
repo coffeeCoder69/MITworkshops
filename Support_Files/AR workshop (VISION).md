@@ -1,4 +1,4 @@
-# AR workshop by VISION
+# AR workshop (VISION)
 
 [Day1](https://youtu.be/bR7gOsZiOFY)
 

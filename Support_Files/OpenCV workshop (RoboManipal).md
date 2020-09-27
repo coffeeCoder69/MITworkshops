@@ -1,4 +1,4 @@
-# OpenCV workshop by RoboManipal
+# OpenCV workshop (RoboManipal)
 
 [Day1](https://youtu.be/bR7gOsZiOFY)
 
