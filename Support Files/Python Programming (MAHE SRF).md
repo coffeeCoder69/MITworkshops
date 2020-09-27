@@ -1,11 +1,4 @@
-# MAHE SRF Python Programming:
-
- 
-
-
-
-[Resources link](https://bit.ly/32EYKdb)
-
+# Python Programming by MAHE SRF:
 
 Recording Day1 recording not available
 
@@ -17,4 +10,4 @@ Recording Day1 recording not available
 
 [Recording Day5](https://bit.ly/3cfjWcT)
 
-[Feedback form](https://bit.ly/33EylM3)
+[Resources link](https://bit.ly/32EYKdb)
