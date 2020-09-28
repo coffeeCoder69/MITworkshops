@@ -1,31 +1,31 @@
 # List of all recordings
 
-* [Deploying-Web-Apps-on-the-Cloud-using-Azure_(MLSA)](Support_Files/Deploying-Web-Apps-on-the-Cloud-using-Azure_(MLSA).md)
+* [Deploying Web Apps on the Cloud using Azure (by MLSA)](Support_Files/Deploying-Web-Apps-on-the-Cloud-using-Azure_(MLSA).md)
 
-* [What-the-SHELL-(GIT-and-BASH-workshop)_(LUG)](Support_Files/What-the-SHELL-(GIT-and-BASH-workshop)_(LUG).md)
+* [What the SHELL (GIT and BASH workshop) (by LUG)](Support_Files/What-the-SHELL-(GIT-and-BASH-workshop)_(LUG).md)
 
-* [Arduino-using-TINKERCAD-workshop_(IE-ENC)](Support_Files/Arduino-using-TINKERCAD-workshop_(IE-ENC).md)
+* [Arduino using TINKERCAD workshop (by IE-ENC)](Support_Files/Arduino-using-TINKERCAD-workshop_(IE-ENC).md)
 
-* [Bootstrap-workshop_(IOSD)](Support_Files/Bootstrap-workshop_(IOSD).md)
+* [Bootstrap workshop (by IOSD)](Support_Files/Bootstrap-workshop_(IOSD).md)
 
-* [CAD-with-FUSION-360_(IE-MCT)](Support_Files/CAD-with-FUSION-360_(IE-MCT).md)
+* [CAD with FUSION 360 (by IE-MCT)](Support_Files/CAD-with-FUSION-360_(IE-MCT).md)
 
-* [Flutter-workshop_(IEMCT)](Support_Files/Flutter-workshop_(IEMCT).md)
+* [Flutter workshop (by IEMCT)](Support_Files/Flutter-workshop_(IEMCT).md)
 
-* [Flutter-workshop_(RnC)](Support_Files/Flutter-workshop_(RnC).md)
+* [Flutter workshop (by RnC)](Support_Files/Flutter-workshop_(RnC).md)
 
-* [Introduction-to-IOT-using-Raspberry-Pi_(IE-MCT)](Support_Files/Introduction-to-IOT-using-Raspberry-Pi_(IE-MCT).md)
+* [Introduction to IOT using Raspberry-Pi (by IE-MCT)](Support_Files/Introduction-to-IOT-using-Raspberry-Pi_(IE-MCT).md)
 
-* [Let's-React-workshop_(IECSE)](Support_Files/Let's-React-workshop_(IECSE).md)
+* [Let's React workshop (by IECSE)](Support_Files/Let's-React-workshop_(IECSE).md)
 
-* [AR-workshop_(VISION)](Support_Files/AR-workshop_(VISION).md)
+* [AR workshop (by VISION)](Support_Files/AR-workshop_(VISION).md)
 
-* [Getting-started-with-Machine-Learning_(IEEE-SBM)](Support_Files/Getting-started-with-Machine-Learning_(IEEE-SBM).md)
+* [Getting started with Machine Learning (by IEEE-SBM)](Support_Files/Getting-started-with-Machine-Learning_(IEEE-SBM).md)
 
-* [Intro-to-DL-and-CNNs-using-PyTorch_(IECSE x VISION)](Support_Files/Intro-to-DL-and-CNNs-using-PyTorch_(IECSExVISION).md)
+* [Intro to DL and CNNs using PyTorch (by IECSE x VISION)](Support_Files/Intro-to-DL-and-CNNs-using-PyTorch_(IECSExVISION).md)
 
-* [OpenCV-workshop_(RoboManipal)](Support_Files/OpenCV-workshop_(RoboManipal).md)
+* [OpenCV workshop (by RoboManipal)](Support_Files/OpenCV-workshop_(RoboManipal).md)
 
-* [Python-Programming_(MAHE SRF)](Support_Files/Python-Programming_(MAHE-SRF).md)
+* [Python Programming (by MAHE SRF)](Support_Files/Python-Programming_(MAHE-SRF).md)
 
-* [Microsoft-Azure-Core-Services-Compute_(MLSA)](Support_Files/Microsoft-Azure-Core-Services-Compute_(MLSA).md)
+* [Microsoft Azure Core Services Compute (by MLSA)](Support_Files/Microsoft-Azure-Core-Services-Compute_(MLSA).md)
