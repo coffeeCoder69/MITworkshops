@@ -8,13 +8,13 @@
 
 * [Bootstrap workshop (by IOSD)](Support_Files/Bootstrap-workshop_(IOSD).md)
 
-* [CAD with FUSION 360 (by IE-MCT)](Support_Files/CAD-with-FUSION-360_(IE-MCT).md)
+* [CAD with FUSION 360 (by IEMCT)](Support_Files/CAD-with-FUSION-360_(IE-MCT).md)
 
 * [Flutter workshop (by IEMCT)](Support_Files/Flutter-workshop_(IEMCT).md)
 
 * [Flutter workshop (by RnC)](Support_Files/Flutter-workshop_(RnC).md)
 
-* [Introduction to IOT using Raspberry-Pi (by IE-MCT)](Support_Files/Introduction-to-IOT-using-Raspberry-Pi_(IE-MCT).md)
+* [Introduction to IOT using Raspberry-Pi (by IEMCT)](Support_Files/Introduction-to-IOT-using-Raspberry-Pi_(IE-MCT).md)
 
 * [Let's React workshop (by IECSE)](Support_Files/Let's-React-workshop_(IECSE).md)
 
