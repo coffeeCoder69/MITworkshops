@@ -4,7 +4,7 @@
 
 * [What-the-SHELL-(GIT-and-BASH-workshop)_(LUG)](Support_Files/What-the-SHELL-(GIT-and-BASH-workshop)_(LUG).md)
 
-* [Arduino-using-TINKERCAD-workshop_(IE-ENC)](Support_Files/Arduino-using-TINKERCAD-workshop_(IE-ENC).md*)
+* [Arduino-using-TINKERCAD-workshop_(IE-ENC)](Support_Files/Arduino-using-TINKERCAD-workshop_(IE-ENC).md)
 
 * [Bootstrap-workshop_(IOSD)](Support_Files/Bootstrap-workshop_(IOSD).md)
 
