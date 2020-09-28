@@ -4,10 +4,6 @@ This is a repository to store rercordings of as many MIT workshops as possible. 
 
 PLEASE NOTE that some of the links might not be accessible to you unless you are logged in to MS teams from your learner.manipal.edu account!
 
-If anyone wants to contribute, go ahead!
-
-Format to be followed:
-
-just add a .txt file with recording links, and name the file with name of the workshop. I'll convert it to the required format, and link it to the appropriate place.
+If anyone wants to contribute, go ahead and raise an issue!
 
 # [CLICK HERE TO ACCESS RECORDINGS](Workshop_List.md)
