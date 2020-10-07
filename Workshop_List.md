@@ -30,4 +30,4 @@
 
 * [Microsoft Azure Core Services Compute (by MLSA)](Support_Files/Microsoft-Azure-Core-Services-Compute_(MLSA).md)
 
-* [Hacktober Fest workshop (by MTTN)](Support_Files/Hacktober-Fest-workshop_(MTTN))
+* [Hacktober Fest workshop (by MTTN)](Support_Files/Hacktoberfest-workshop_(MTTN).md)

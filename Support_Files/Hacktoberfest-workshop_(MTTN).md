@@ -1,4 +1,4 @@
-# Hacktober Fest workshop (by MTTN)
+# Hacktoberfest workshop (by MTTN)
 
 [Part 1](https://cloud-user-recordings-converted-prod.s3-ap-south-1.amazonaws.com/recordings/45746310-059a-11eb-8615-d11a0ce15cc8/55521894-8b31-42b2-98c7-31aaa3fb20f5/45746310-059a-11eb-8615-d11a0ce15cc8_0001_b72c3af3.mp4)
 
