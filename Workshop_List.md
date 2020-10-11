@@ -18,7 +18,7 @@
 
 * [Let's React workshop (by IECSE)](Support_Files/Let's-React-workshop_(IECSE).md)
 
-* [AR workshop (by VISION)](Support_Files/AR-workshop_(VISION).md)
+* [Augmented Reality workshop (by VISION)](Support_Files/AR-workshop_(VISION).md)
 
 * [Getting started with Machine Learning (by IEEE-SBM)](Support_Files/Getting-started-with-Machine-Learning_(IEEE-SBM).md)
 
