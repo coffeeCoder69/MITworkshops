@@ -1,4 +1,4 @@
-# Augmented Reality workshop (VISION)
+# Augmented Reality workshop (by VISION)
 
 [Day1](https://youtu.be/bR7gOsZiOFY)
 
