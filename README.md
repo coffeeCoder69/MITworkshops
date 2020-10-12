@@ -6,4 +6,12 @@ PLEASE NOTE that some of the links might not be accessible to you unless you are
 
 If anyone wants to contribute, go ahead and raise an issue!
 
-# [CLICK HERE TO ACCESS RECORDINGS](Workshop_List.md)
+# 👉[CLICK HERE TO ACCESS RECORDINGS](Workshop_List.md)👈
+
+
+### Contributors:
+ <a href="https://github.com/coffeeCoder69/MITworkshops/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=coffeeCoder69/MITworkshops" />
+</a>
+
+### This project need a **star** ⭐ from you ♥.
