@@ -26,8 +26,17 @@
 
 * [OpenCV workshop (by RoboManipal)](Support_Files/OpenCV-workshop_(RoboManipal).md)
 
-* [Python Programming (by MAHE SRF)](Support_Files/Python-Programming_(MAHE-SRF).md)
 
 * [Microsoft Azure Core Services Compute (by MLSA)](Support_Files/Microsoft-Azure-Core-Services-Compute_(MLSA).md)
 
 * [Hacktoberfest workshop (by MTTN)](Support_Files/Hacktoberfest-workshop_(MTTN).md)
+
+ * [OpenRocket Workshop (by ThrustMIT in TechTatva 2020)](Support_Files/OpenRocket-workshop_(ThrustMIT).md) 
+
+ * [Learn the ROS way (by '' in TechTatva 2020)](Support_Files/)
+
+ * [Proteus workshop (by '' in TechTatva 2020)](Support_Files/)
+
+ * [Arduino workshop (by '' in TechTatva 2020)](Support_Files/)
+
+ * [Game Development using Unreal Engine (by IOSD in TechTatva 2020)](Support_Files/)
