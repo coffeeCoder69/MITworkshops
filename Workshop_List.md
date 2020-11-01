@@ -35,8 +35,8 @@
 
  * [Learn the ROS way (by '' in TechTatva 2020)](Support_Files/)
 
- * [Proteus workshop (by '' in TechTatva 2020)](Support_Files/)
+ * [Proteus workshop (by IE-E&E in TechTatva 2020)](Support_Files/)
 
- * [Arduino workshop (by '' in TechTatva 2020)](Support_Files/)
+ * [Arduino workshop (by IE-E&E in TechTatva 2020)](Support_Files/)
 
  * [Game Development using Unreal Engine (by IOSD in TechTatva 2020)](Support_Files/)
