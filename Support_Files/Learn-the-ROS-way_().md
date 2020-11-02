@@ -7,4 +7,6 @@
 
 [Discord](https://discord.com/invite/hFxKuAX)
 
-[Github](https://github.com/kvkpraneeth/Ros_Workshop)
+[ROS workshop Github](https://github.com/kvkpraneeth/Ros_Workshop)
+
+[Gazebo tutorial Github](https://github.com/Blebot0/Gazebo_tutorial)
