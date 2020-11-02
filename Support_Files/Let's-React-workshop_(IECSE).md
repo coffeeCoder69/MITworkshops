@@ -1,6 +1,6 @@
 # Let's React workshop (IECSE)
 
-- Track 1 (Baisc)
+- Track 1 (Basic)
     - [Day1](https://drive.google.com/file/d/1D6F4PWhSf6040pKFebf24vxHzwbJCCsf/view?usp=sharing)
     - [Day2](https://drive.google.com/file/d/1QNZ0ytBtjD9-gsKXQ12j5ZASv_-lO-De/view?usp=sharing)
 
