@@ -33,7 +33,7 @@
 
 * [OpenRocket Workshop (by ThrustMIT in TechTatva 2020)](Support_Files/OpenRocket-workshop_(ThrustMIT).md) 
 
-* [Learn the ROS way (by ROBOTREK(indivisual category) in TechTatva 2020)](Support_Files/Learn-the-ROS-way_(ROBOTREK category).md)
+* [Learn the ROS way (by ROBOTREK(indivisual category) in TechTatva 2020)](Support_Files/Learn-the-ROS-way_(ROBOTREK-category).md)
 
 * [Proteus workshop (by IE-E&E in TechTatva 2020)](Support_Files/Proteus-workshop_(IE-E&E).md)
 
