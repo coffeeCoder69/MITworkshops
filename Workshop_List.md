@@ -31,12 +31,12 @@
 
 * [Hacktoberfest workshop (by MTTN)](Support_Files/Hacktoberfest-workshop_(MTTN).md)
 
- * [OpenRocket Workshop (by ThrustMIT in TechTatva 2020)](Support_Files/OpenRocket-workshop_(ThrustMIT).md) 
+* [OpenRocket Workshop (by ThrustMIT in TechTatva 2020)](Support_Files/OpenRocket-workshop_(ThrustMIT).md) 
 
- * [Learn the ROS way (by ROBOTREK(indivisual category) in TechTatva 2020)](Support_Files/Learn-the-ROS-way_(ROBOTREK category).md)
+* [Learn the ROS way (by ROBOTREK(indivisual category) in TechTatva 2020)](Support_Files/Learn-the-ROS-way_(ROBOTREK category).md)
 
- * [Proteus workshop (by IE-E&E in TechTatva 2020)](Support_Files/Proteus-workshop_(IE-E&E).md)
+* [Proteus workshop (by IE-E&E in TechTatva 2020)](Support_Files/Proteus-workshop_(IE-E&E).md)
 
- * [Arduino workshop (by IE-E&E in TechTatva 2020)](Support_Files/Arduino-workshop_(IE-E&E).md)
+* [Arduino workshop (by IE-E&E in TechTatva 2020)](Support_Files/Arduino-workshop_(IE-E&E).md)
 
- * [Game Development using Unreal Engine (by IOSD in TechTatva 2020)](Support_Files/Game-Dev-using-Unreal-Engine_(IOSD).md)
+* [Game Development using Unreal Engine (by IOSD in TechTatva 2020)](Support_Files/Game-Dev-using-Unreal-Engine_(IOSD).md)
