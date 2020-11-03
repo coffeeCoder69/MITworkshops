@@ -3,6 +3,6 @@
 
 [Day1](https://youtu.be/3SyPAJhsyAg)
 
-[Day2]()
+[Day2](https://youtu.be/VYpnyzF6kVs)
 
 [Linktree](https://linktr.ee/ORK_WORKSHOP_RESOURCES)
